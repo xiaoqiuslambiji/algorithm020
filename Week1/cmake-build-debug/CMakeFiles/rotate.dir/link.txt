@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/rotate.dir/189-rotate.cpp.o  -o rotate 

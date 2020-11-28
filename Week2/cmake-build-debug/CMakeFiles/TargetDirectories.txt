@@ -1,0 +1,6 @@
+/home/q/CLionProjects/algorithm020/Week2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/q/CLionProjects/algorithm020/Week2/cmake-build-debug/CMakeFiles/2-isAnagram.dir
+/home/q/CLionProjects/algorithm020/Week2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/q/CLionProjects/algorithm020/Week2/cmake-build-debug/CMakeFiles/1-isAnagram.dir
+/home/q/CLionProjects/algorithm020/Week2/cmake-build-debug/CMakeFiles/1-twoSum.dir
+/home/q/CLionProjects/algorithm020/Week2/cmake-build-debug/CMakeFiles/2-twoSum.dir

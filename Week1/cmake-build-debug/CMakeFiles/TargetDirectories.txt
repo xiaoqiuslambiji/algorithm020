@@ -1,0 +1,4 @@
+/home/q/CLionProjects/algorithm020/Week1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/q/CLionProjects/algorithm020/Week1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/q/CLionProjects/algorithm020/Week1/cmake-build-debug/CMakeFiles/rotate.dir
+/home/q/CLionProjects/algorithm020/Week1/cmake-build-debug/CMakeFiles/removeDuplicates.dir
