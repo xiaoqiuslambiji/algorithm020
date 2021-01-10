@@ -10,14 +10,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642fe970-d01a-414a-99cc-f1de932364e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week7/numIslands.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week8/hammingWeight.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week7/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week7/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week8/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +34,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.advertisement.text.overridden" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -73,7 +77,10 @@
       <workItem from="1607426379230" duration="143000" />
       <workItem from="1609036387447" duration="972000" />
       <workItem from="1609117390767" duration="216000" />
-      <workItem from="1609465413772" duration="464000" />
+      <workItem from="1609465413772" duration="1209000" />
+      <workItem from="1609665143585" duration="621000" />
+      <workItem from="1609722155021" duration="378000" />
+      <workItem from="1610281228458" duration="1047000" />
     </task>
     <servers />
   </component>
