@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
-    <generated />
+    <generated>
+      <config projectName="week9" targetName="reverseStr" />
+      <config projectName="week9" targetName="firstUniqChar" />
+    </generated>
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -10,18 +13,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642fe970-d01a-414a-99cc-f1de932364e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week8/hammingWeight.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week9/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week9/firstUniqChar.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week9/reverseStr.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/algorithm020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm020.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week8/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week8/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week9/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week9/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
-  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -37,7 +42,7 @@
     <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.advertisement.text.overridden" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week9" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -48,19 +53,39 @@
     <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Week9" />
+      <recent name="$PROJECT_DIR$/Week3" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Week3" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Week3" />
-    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="CMake Application.reverseStr">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstUniqChar" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week9" TARGET_NAME="firstUniqChar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week9" RUN_TARGET_NAME="firstUniqChar">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="reverseStr" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week9" TARGET_NAME="reverseStr" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week9" RUN_TARGET_NAME="reverseStr">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="CMake Application.firstUniqChar" />
+      <item itemvalue="CMake Application.reverseStr" />
+    </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -80,42 +105,24 @@
       <workItem from="1609465413772" duration="1209000" />
       <workItem from="1609665143585" duration="621000" />
       <workItem from="1609722155021" duration="378000" />
-      <workItem from="1610281228458" duration="1047000" />
+      <workItem from="1610281228458" duration="2459000" />
+      <workItem from="1610287116077" duration="10000" />
+      <workItem from="1610765657972" duration="5212000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="1633" y="769" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1607267587072">
-      <screen x="81" y="24" width="3759" height="2136" />
-    </state>
-    <state x="1633" y="769" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/81.24.3759.2136@81.24.3759.2136" timestamp="1607267587072" />
-    <state x="734" y="240" width="530" height="596" key="FileChooserDialogImpl" timestamp="1607426519788">
-      <screen x="81" y="24" width="1839" height="1056" />
-    </state>
-    <state x="734" y="240" width="530" height="596" key="FileChooserDialogImpl/81.24.1839.1056@81.24.1839.1056" timestamp="1607426519788" />
-    <state x="1416" y="461" key="FileChooserDialogImpl/81.24.3759.2136@81.24.3759.2136" timestamp="1607363790022" />
-    <state width="3703" height="416" key="GridCell.Tab.0.bottom" timestamp="1607265211198">
-      <screen x="81" y="24" width="3759" height="2136" />
-    </state>
-    <state width="3703" height="416" key="GridCell.Tab.0.bottom/81.24.3759.2136@81.24.3759.2136" timestamp="1607265211198" />
-    <state width="3703" height="416" key="GridCell.Tab.0.center" timestamp="1607265211197">
-      <screen x="81" y="24" width="3759" height="2136" />
-    </state>
-    <state width="3703" height="416" key="GridCell.Tab.0.center/81.24.3759.2136@81.24.3759.2136" timestamp="1607265211197" />
-    <state width="3703" height="416" key="GridCell.Tab.0.left" timestamp="1607265211196">
-      <screen x="81" y="24" width="3759" height="2136" />
-    </state>
-    <state width="3703" height="416" key="GridCell.Tab.0.left/81.24.3759.2136@81.24.3759.2136" timestamp="1607265211196" />
-    <state width="3703" height="416" key="GridCell.Tab.0.right" timestamp="1607265211198">
-      <screen x="81" y="24" width="3759" height="2136" />
-    </state>
-    <state width="3703" height="416" key="GridCell.Tab.0.right/81.24.3759.2136@81.24.3759.2136" timestamp="1607265211198" />
-    <state x="1315" y="626" key="SettingsEditor" timestamp="1607267477265">
-      <screen x="81" y="24" width="3759" height="2136" />
-    </state>
-    <state x="1315" y="626" key="SettingsEditor/81.24.3759.2136@81.24.3759.2136" timestamp="1607267477265" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/Week9/firstUniqChar.cpp</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
