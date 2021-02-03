@@ -13,13 +13,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="642fe970-d01a-414a-99cc-f1de932364e1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Week9/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week9/firstUniqChar.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Week9/reverseStr.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/algorithm020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/algorithm020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Week9/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Week9/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +36,7 @@
     <property name="cf.advertisement.text.has.clang-format" value="true" />
     <property name="cf.advertisement.text.overridden" value="true" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Week9" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../vio_catkin_ws" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -62,11 +56,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.reverseStr">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="firstUniqChar" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="week9" TARGET_NAME="firstUniqChar" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="week9" RUN_TARGET_NAME="firstUniqChar">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -107,7 +96,8 @@
       <workItem from="1609722155021" duration="378000" />
       <workItem from="1610281228458" duration="2459000" />
       <workItem from="1610287116077" duration="10000" />
-      <workItem from="1610765657972" duration="5212000" />
+      <workItem from="1610765657972" duration="5857000" />
+      <workItem from="1610799373299" duration="32000" />
     </task>
     <servers />
   </component>
